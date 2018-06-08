@@ -5,10 +5,10 @@ This is a community driven collection of Azure Functions extensions.
 
 ## Currently available packages
 
-|Name|Description|Status|URL|
+|Name|Description|Status|
 |-|-|-|-|
-|[AzureFunctions.Contrib.Redis](https://github.com/AzureFunctionsContrib/AzureFunctions.Contrib.Redis)|Redis bindings for Azure Functions|[![Build status](https://ci.appveyor.com/api/projects/status/x2hcuua5jpm86c2p/branch/master?svg=true)](https://ci.appveyor.com/project/fbeltrao/azurefunctions-contrib-redis)|https://github.com/AzureFunctionsContrib/AzureFunctions.Contrib.Redis|
-|[AzureFunctions.Contrib.SignalR](https://github.com/AzureFunctionsContrib/AzureFunctions.Contrib.SignalR)|SignalR bindings for Azure Functions|[![Build status](https://ci.appveyor.com/api/projects/status/a50a86d7ynjl45s1/branch/master?svg=true)](https://ci.appveyor.com/project/fbeltrao/azurefunctions-contrib-signalr)|https://github.com/AzureFunctionsContrib/AzureFunctions.Contrib.SignalR|
+|[AzureFunctions.Contrib.Redis](https://github.com/AzureFunctionsContrib/AzureFunctions.Contrib.Redis)|Redis bindings for Azure Functions|[![Build status](https://ci.appveyor.com/api/projects/status/x2hcuua5jpm86c2p/branch/master?svg=true)](https://ci.appveyor.com/project/fbeltrao/azurefunctions-contrib-redis)|
+|[AzureFunctions.Contrib.SignalR](https://github.com/AzureFunctionsContrib/AzureFunctions.Contrib.SignalR)|SignalR bindings for Azure Functions|[![Build status](https://ci.appveyor.com/api/projects/status/a50a86d7ynjl45s1/branch/master?svg=true)](https://ci.appveyor.com/project/fbeltrao/azurefunctions-contrib-signalr)|
 
 ## How to contribute
 
